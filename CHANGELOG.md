@@ -1,5 +1,20 @@
 # Changelog
 
+## 2.21.1 (2026-02-22)
+
+Full Changelog: [v2.21.0...v2.21.1](https://github.com/openai/openai-python/compare/v2.21.0...v2.21.1)
+
+### Chores
+
+* update mock server docs ([91f4da8](https://github.com/openai/openai-python/commit/91f4da80ec3dba5d3566961560dfd6feb9c2feb0))
+
+
+### Documentation
+
+* **api:** add batch size limit to file_batches parameter descriptions ([16ae76a](https://github.com/openai/openai-python/commit/16ae76a20a47f94c91ee2ca0b2ada274633abab3))
+* **api:** enhance method descriptions across audio, chat, realtime, skills, uploads, videos ([21f9e5a](https://github.com/openai/openai-python/commit/21f9e5aaf6ae27f0235fddb3ffa30fe73337f59b))
+* **api:** update safety_identifier documentation in chat completions and responses ([d74bfff](https://github.com/openai/openai-python/commit/d74bfff62c1c2b32d4dc88fd47ae7b1b2a962017))
+
 ## 2.21.0 (2026-02-13)
 
 Full Changelog: [v2.20.0...v2.21.0](https://github.com/openai/openai-python/compare/v2.20.0...v2.21.0)
